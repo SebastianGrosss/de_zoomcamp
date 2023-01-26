@@ -1,0 +1,6 @@
+data_pgadmin/*
+!data_pgadmin/.gitkeep
+
+ny_taxi_postgres_data/*
+!ny_taxi_postgres_data/.gitkeep
+
